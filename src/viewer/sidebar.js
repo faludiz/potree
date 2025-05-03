@@ -1243,7 +1243,8 @@ export class Sidebar{
 			["SE", "se"],
 			["ZH", "zh"],
 			["IT", "it"],
-			["CA", "ca"]
+			["CA", "ca"],
+			["HU", "hu"]
 		];
 
 		let elLanguages = $('#potree_languages');

@@ -1,0 +1,106 @@
+{
+	"tb": {
+		"navigation_opt": "Navigáció",
+		"rendering_opt": "Megjelenés",
+		"tools_opt": "Eszközök",
+		"measurments_opt": "Mérések",
+		"clipping_opt": "Vágás",
+		"annotations_opt": "Megjegyzések",
+		"materials_opt": "Anyagok",
+		"scene_opt": "Jelenet",
+		"classification_filter_opt": "Osztályozási szűrő",
+		"filters_opt": "Szűrők",
+		"parameters_opt": "Egyéb beállítások",
+		"about_opt": "Névjegy"
+	},
+	"tt": {
+		"angle_measurement": "Szög mérés",
+		"point_measurement": "Pont mérés",
+		"distance_measurement": "Távolság mérés",
+		"height_measurement": "Magasság mérés",
+		"circle_measurement": "Kör mérés",
+		"area_measurement": "Terület mérés",
+		"volume_measurement": "Térfogat mérés",
+		"height_profile": "Magassági profil",
+		"annotation": "Megjegyzés",
+		"clip_volume": "Térfogat vágás",
+		"clip_polygon": "Poligon vágás",
+		"screen_clip_box": "Rajzolj egy jelölő dobozt. A használatához ortografikus módban kell lenni!",
+		"clip_plane_x": "Vágósík az X tengelyen",
+		"clip_plane_y": "Vágósík az Y tengelyen",
+		"clip_plane_z": "Vágósík az Z tengelyen",
+		"remove_all_measurement": "Minden mérés eltávolítása",
+		"left_view_control": "Bal nézet",
+		"right_view_control": "Jobb nézet",
+		"front_view_control": "Elölnézet",
+		"back_view_control": "Hátulnézet",
+		"top_view_control": "Felülnézet",
+		"bottom_view_control": "Alulnézet",
+		"focus_control": "Teljes terjedelem",
+		"orbit_control": "Pálya vezérlés",
+		"flight_control": "Repülés vezérlés",
+		"heli_control": "Helikopter vezérlés",
+		"earth_control": "Földi vezérlés",
+		"perspective_camera_control": "Perspektív kamera",
+		"orthographic_camera_control": "Orthografikus kamera",
+		"navigation_cube_control": "Navigációs kocka",
+		"remove_all_clipping_volumes": "Minden vágó térfogat eltávolítása",
+		"compass": "Iránytű",
+		"camera_animation": "Kamera animáció"
+	},
+	"appearance": {
+		"nb_max_pts": "Maximális pont", 
+		"point_size": "Pont méret",
+		"min_point_size": "Minimális méret",
+		"point_opacity": "Átlátszatlanság",
+		"field_view": "Látómező",
+		"point_size_type": "Pont méretezés",
+		"point_material": "Anyagok",
+		"elevation_range": "Magasság tartomány",
+		"extra_range": "Skaláris tartomány",
+		"point_quality": "Minőség",
+		"point_shape": "Alak",
+		"edl_radius": "Sugár",
+		"edl_strength": "Erősség",
+		"edl_opacity": "Átlátszatlanság",
+		"edl_enable": "Engedélyez",
+		"min_node_size": "Min. csomópont méret",
+		"clip_mode": "Klip üzemmód",
+		"move_speed": "Sebesség",
+		"skybox": "Égbolt",
+		"bottom_lock": "Tartsa a föld felett",
+		"box": "Doboz",
+		"length_unit": "Hossz mértékegység",
+		"freeze": "Nézet zárolása",
+		"language": "Nyelv",
+		"backface_culling": "Hátsó élek eltávolítása"
+	},
+	"measurements": {
+		"clip": "vág",
+		"show": "térfogat megjelenítés"
+	},
+	"annotations": {
+		"show3D": "megjelenítés 3D-ben",
+		"showMap": "megjelenítés térképen"
+	}, 
+	"profile": {
+		"nb_points": "Pontok száma",
+		"title": "Magassági profil",
+		"save_las": "Mentés LAS(3D)",
+		"save_ortho": "Mentés CSV(2D)"
+	},
+	"scene": {
+		"camera_position": "Kamera helyzet",
+		"camera_target": "Kamera cél"
+	},
+	"filters": {
+		"return_number": "Visszaverődés szám",
+		"number_of_returns": "Visszaverődések száma",
+		"gps_min": "min",
+		"gps_max": "max",
+		"gps_time": "GPS idő"
+	},
+	"settings": {
+		"language": "nyelv"
+	}
+}
